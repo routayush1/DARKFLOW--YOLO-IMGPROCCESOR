@@ -4,7 +4,7 @@ INPUT
 ![alt text](https://github.com/routayush1/DARKFLOW--YOLO-IMGPROCCESOR/blob/master/DSC04132.JPG)
 
 OUTPUT
-![alt text](https://github.com/routayush1/DARKFLOW--YOLO-IMGPROCCESOR/blob/master/.PNG)
+![alt text](https://github.com/routayush1/DARKFLOW--YOLO-IMGPROCCESOR/blob/master/UTPUT.jpg)
 
 
 
