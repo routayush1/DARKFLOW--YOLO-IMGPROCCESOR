@@ -1,4 +1,14 @@
 # DARKFLOW--YOLO-IMGPROCCESOR
+INPUT
+
+![alt text](https://github.com/routayush1/DARKFLOW--YOLO-IMGPROCCESOR/blob/master/DSC04132.JPG)
+
+OUTPUT
+![alt text](https://github.com/routayush1/DARKFLOW--YOLO-IMGPROCCESOR/blob/master/.PNG)
+
+
+
+
 LIBRARY NEEDED 
 ![alt text](https://github.com/routayush1/DARKFLOW--YOLO-IMGPROCCESOR/blob/master/LIB%20NEEDED.JPG)
 ![alt text](https://github.com/routayush1/DARKFLOW--YOLO-IMGPROCCESOR/blob/master/LIB%20NEEDED1.JPG)
