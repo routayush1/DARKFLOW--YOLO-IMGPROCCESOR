@@ -1,4 +1,4 @@
-# DARKFLOW--YOLO-IMGPROCCESOR
+# Object Detection YOLO V2
 INPUT
 
 ![alt text](https://github.com/routayush1/DARKFLOW--YOLO-IMGPROCCESOR/blob/master/DSC04132.JPG)
