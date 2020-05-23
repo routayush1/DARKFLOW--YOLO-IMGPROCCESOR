@@ -11,6 +11,7 @@ OUTPUT
 
 
 LIBRARY NEEDED 
+----
 ![alt text](https://github.com/routayush1/DARKFLOW--YOLO-IMGPROCCESOR/blob/master/LIB%20NEEDED.JPG)
 ![alt text](https://github.com/routayush1/DARKFLOW--YOLO-IMGPROCCESOR/blob/master/LIB%20NEEDED1.JPG)
 Getting started
@@ -19,9 +20,12 @@ You can choose one of the following three ways to get started with darkflow.
 https://github.com/thtrieu/darkflow
 
 
->HERE YOU CAN FIND WEIGHTS 
+HERE YOU CAN FIND WEIGHTS
+----
 AND INSTALLATION PROCESS
+----
 DO NOTE THAT YOU NEED
+----
 -  MICROSOFT VISUAL STUDIO BUILD TOOLS
 -  NUMPY
 -  CYTHON
