@@ -20,11 +20,7 @@ You can choose one of the following three ways to get started with darkflow.
 https://github.com/thtrieu/darkflow
 
 
-HERE YOU CAN FIND WEIGHTS
-----
-AND INSTALLATION PROCESS
-----
-DO NOTE THAT YOU NEED
+HERE YOU CAN FIND WEIGHTS AND INSTALLATION PROCESS DO NOTE THAT YOU NEED
 ----
 -  MICROSOFT VISUAL STUDIO BUILD TOOLS
 -  NUMPY
@@ -35,3 +31,4 @@ DO NOTE THAT YOU NEED
 
 
 PIP INSTALL ALL OF THE  ABOVE 
+---
